@@ -17,6 +17,9 @@ This was a great project to that helps dab into express and host all my future p
 
 ## Usage
 
+[noteShrimp.webm](https://github.com/LuisMtz-0/NoteShrimp/assets/118570822/9480ff6b-2cdc-4050-b727-47c0d636d288)
+
+
 ## Credits
 
 GitHub: LuisMtz-0
